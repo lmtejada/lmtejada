@@ -26,7 +26,7 @@ The company closed its e-commerce operations in 2025 and I was laid off. I used 
 
 ---
 
-## Find me
+## Let's Connect
 
 - [linkedin.com/in/lautejadac](https://www.linkedin.com/in/lautejadac)
 - [lautejadac@gmail.com](mailto:lautejadac@gmail.com)
