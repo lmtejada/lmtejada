@@ -10,15 +10,11 @@ I am drawn to environments that value precision, systematic planning, and high-q
 
 My experience in the Tech industry involves coordinating complex projects, translating technical concepts for diverse stakeholders, and identifying opportunities to enhance processes.
 
----
-
 ## Currently
 
 - Building a Playwright + TypeScript automation suite on [SauceDemo](https://github.com/lmtejada/saucedemo-automation-suite): E2E coverage, Page Object Model structure, CI integration through GitHub Actions.
 - ISTQB Foundation Level certified.
 - Applying for QA Automation Engineer roles in Berlin, hybrid or remote-friendly across CET.
-
----
 
 ## Background
 
