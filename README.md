@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Laura 👋
 
-<!--
-**lmtejada/lmtejada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer turned QA automation engineer, based in Berlin.
 
-Here are some ideas to get you started:
+I spent ten years building products in JavaScript and TypeScript before deciding I wanted to own quality itself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I think of QA as an act of care disguised as a technical discipline. A good test suite is really a promise to the next person who touches the code, and to the person on the other end who just wants the checkout button to work.
+
+I am drawn to environments that value precision, systematic planning, and high-quality standards over "speed-at-all-costs". I want to work with teams where my bilingual communication skills (Spanish/English) and technical depth can help bridge the gap between engineering, product, and the final user experience.
+
+My experience in the Tech industry involves coordinating complex projects, translating technical concepts for diverse stakeholders, and identifying opportunities to enhance processes.
+
+---
+
+## Currently
+
+- Building a Playwright + TypeScript automation suite on [SauceDemo](https://github.com/lmtejada/saucedemo-automation-suite): E2E coverage, Page Object Model structure, CI integration through GitHub Actions.
+- ISTQB Foundation Level certified.
+- Applying for QA Automation Engineer roles in Berlin, hybrid or remote-friendly across CET.
+
+---
+
+## Background
+
+For ten years I've worked on the seams between product, engineering, and growth. I started as a frontend developer in Colombia and spent the last four years in Berlin working as a Senior Software Engineer at Highsnobiety, owning features end to end: checkout redesigns, payment integrations, CMS migrations, and the Cypress suites that kept them honest.
+
+The company closed its e-commerce operations in 2025 and I was laid off. I used that time to be honest with myself. The parts of engineering I was best at (identifying edge cases, writing precise documentation, caring about how things feel for real users) those aren't dev skills. They're QA skills, so that's the direction I'm heading.
+
+**Stack:** Playwright · Cypress · Postman · TypeScript · JavaScript  · React · Node.js · Git
+
+---
+
+## Find me
+
+- [linkedin.com/in/lautejadac](https://www.linkedin.com/in/lautejadac)
+- [lautejadac@gmail.com](mailto:lautejadac@gmail.com)
