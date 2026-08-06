@@ -24,8 +24,6 @@ The company closed its e-commerce operations in 2025 and I was laid off. I used 
 
 **Stack:** Playwright · Cypress · Postman · TypeScript · JavaScript  · React · Node.js · Git
 
----
-
 ## Let's Connect
 
 - [linkedin.com/in/lautejadac](https://www.linkedin.com/in/lautejadac)
