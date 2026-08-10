@@ -12,7 +12,7 @@ My experience in the Tech industry involves coordinating complex projects, trans
 
 ## Currently
 
-- Actively applying for QA Automation Engineer roles in Berlin, hybrid or remote-friendly across CET.
+- Actively applying to QA Automation Engineer roles in Berlin, hybrid or remote-friendly across CET.
 - Built a Playwright + TypeScript automation suite on [SauceDemo](https://github.com/lmtejada/saucedemo-automation-suite): E2E coverage, Page Object Model structure, CI integration through GitHub Actions.
 - ISTQB Foundation Level certified.
 
