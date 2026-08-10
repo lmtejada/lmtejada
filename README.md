@@ -18,7 +18,7 @@ My experience in the Tech industry involves coordinating complex projects, trans
 
 ## Background
 
-For ten years I've worked on the seams between product, engineering, and growth. I started as a frontend developer in Colombia and spent the last four years in Berlin working as a Senior Software Engineer at Highsnobiety, owning features end to end: checkout redesigns, payment integrations, CMS migrations, and the Cypress suites that kept them honest.
+I started as a frontend developer in Colombia and spent the last four years in Berlin working as a Senior Software Engineer at Highsnobiety, owning features end to end: checkout redesigns, payment integrations, CMS migrations, and the Cypress suites that kept them honest.
 
 The company closed its e-commerce operations in 2025 and I was laid off. I used that time to be honest with myself. The parts of engineering I was best at (identifying edge cases, writing precise documentation, caring about how things feel for real users) those aren't dev skills. They're QA skills, so that's the direction I'm heading.
 
