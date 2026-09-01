@@ -13,7 +13,7 @@ My experience in the Tech industry involves coordinating complex projects, trans
 ## Currently
 
 - Actively applying to QA Automation Engineer roles in Berlin, hybrid or remote-friendly across CET.
-- Currently building an end-to-end API and contract testing suite with TypeScript, Playwright, Pact JS, and Postman for [Restful Booker API](https://github.com/lmtejada/restful-booker-automation-suite).
+- Built an API and contract testing suite with TypeScript, Playwright, Postman / Newman, and Pact JS for [Restful Booker API](https://github.com/lmtejada/restful-booker-automation-suite).
 - Built a Playwright + TypeScript automation suite on [SauceDemo](https://github.com/lmtejada/saucedemo-automation-suite): E2E coverage, Page Object Model structure, CI integration through GitHub Actions.
 - ISTQB Foundation Level certified.
 
