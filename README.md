@@ -1,29 +1,19 @@
 # Hi, I'm Laura 👋
 
-Software engineer turned QA automation engineer, based in Berlin.
+Software Engineer with 7+ years of experience building and improving web applications across e-commerce, media, and enterprise platforms. My technical background centres on TypeScript, JavaScript, React, Node.js, and REST / GraphQL APIs, with experience delivering features, integrations, and scalable solutions.
 
-I spent ten years building products in JavaScript and TypeScript before deciding I wanted to own quality itself.
+At Highsnobiety, I worked on a global e-commerce platform, owning features such as checkout improvements, Stripe payment integrations, and a headless CMS migration. I also contributed to our web E2E automation suite using Cypress.
 
-I think of QA as an act of care disguised as a technical discipline. A good test suite is really a promise to the next person who touches the code, and to the person on the other end who just wants the checkout button to work.
+I enjoy working across the software development lifecycle, from building features and integrations to improving software quality, automation, and system reliability. I’m particularly interested in how technology, infrastructure, and business processes come together to create better products and experiences. 
 
-I am drawn to environments that value precision, systematic planning, and high-quality standards over "speed-at-all-costs". I want to work with teams where my bilingual communication skills (Spanish/English) and technical depth can unify engineering efforts with product strategy and real-world user needs.
+I’m continuing to develop my skills in QA automation with Playwright, exploring AI-assisted workflows, and expanding my knowledge of cloud infrastructure and platform operations, including GCP.
 
-My experience in the Tech industry involves coordinating complex projects, translating technical concepts for diverse stakeholders, and identifying opportunities to enhance processes.
+📍 Based in Berlin, with an unlimited residence permit. Open to hybrid and remote opportunities across Germany and Europe.
 
-## Currently
-
-- Actively applying to QA Automation Engineer roles in Berlin, hybrid or remote-friendly across CET.
-- Built an API and contract testing suite with TypeScript, Playwright, Postman / Newman, and Pact JS for [Restful Booker API](https://github.com/lmtejada/restful-booker-automation-suite).
-- Built a Playwright + TypeScript automation suite on [SauceDemo](https://github.com/lmtejada/saucedemo-automation-suite): E2E coverage, Page Object Model structure, CI integration through GitHub Actions.
-- ISTQB Foundation Level certified.
-
-## Background
-
-I started as a frontend developer in Colombia and spent the last four years in Berlin working as a Senior Software Engineer at Highsnobiety, owning features end-to-end: checkout redesigns, payment integrations, CMS migrations, and the Cypress suites that help us release to production with confidence.
-
-The company closed its e-commerce operations in 2025 and I was laid off. I used that time to be honest with myself. The parts of engineering I was best at (identifying edge cases, writing precise documentation, caring about how things feel for real users) those aren't dev skills. They're QA skills, so that's the direction I'm heading.
-
-**Stack:** Playwright · Cypress · Postman · TypeScript · JavaScript  · React · Node.js · Git
+💻 Languages: JavaScript, TypeScript, SQL
+🔧 Technologies & Tools: React, Node.js, Cypress, Playwright, REST APIs, GraphQL, Git, CI/CD, GCP, Docker
+🧪 Practices: Test Automation, E2E & API Testing, Agile/Scrum, TDD
+☁️ Areas of Interest: Cloud Infrastructure, Infrastructure as Code, AI Automation
 
 ## Let's Connect
 
