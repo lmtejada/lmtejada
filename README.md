@@ -10,10 +10,10 @@ I’m continuing to develop my skills in QA automation with Playwright, explorin
 
 📍 Based in Berlin, with an unlimited residence permit. Open to hybrid and remote opportunities across Germany and Europe.
 
-💻 Languages: JavaScript, TypeScript, SQL
-🔧 Technologies & Tools: React, Node.js, Cypress, Playwright, REST APIs, GraphQL, Git, CI/CD, GCP, Docker
-🧪 Practices: Test Automation, E2E & API Testing, Agile/Scrum, TDD
-☁️ Areas of Interest: Cloud Infrastructure, Infrastructure as Code, AI Automation
+💻 Languages: JavaScript, TypeScript, SQL <br/>
+🔧 Technologies & Tools: React, Node.js, Cypress, Playwright, REST APIs, GraphQL, Git, CI/CD, GCP, Docker <br/>
+🧪 Practices: Test Automation, E2E & API Testing, Agile/Scrum, TDD <br/>
+☁️ Areas of Interest: Cloud Infrastructure, Infrastructure as Code, AI Automation <br/>
 
 ## Let's Connect
 
